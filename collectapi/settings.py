@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'employed',
     'collectapi',
     'gallery',
+    'offert',
 
 ]
 
